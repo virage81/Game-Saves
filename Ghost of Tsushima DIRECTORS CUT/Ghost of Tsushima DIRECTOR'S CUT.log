@@ -1,0 +1,1082 @@
+02:10:33:715 (00011124) > [Startup] Ghost of Tsushima DIRECTOR'S CUT
+02:10:33:715 (00011124) > [Startup] ==============
+02:10:33:715 (00011124) > [Startup] 
+02:10:33:715 (00011124) > [Startup] Build: v1053.0.0515.2048
+02:10:33:715 (00011124) > [Startup] Windows 11.0 (build 22631.3737)
+02:10:33:715 (00011124) > [Startup] Distribution platform: Steam
+02:10:33:715 (00011124) > [Startup] Game directory: C:\Users\<username>\Documents\Ghost of Tsushima DIRECTOR'S CUT\
+02:10:33:715 (00011124) > [Startup] Working directory: B:\Games\Ghost of Tsushima DIRECTORS CUT
+02:10:33:715 (00011124) > [Startup] Run ID: 3700-56F3-2134-0196
+02:10:33:715 (00011124) > [Startup] 
+02:10:33:715 (00011124) > [Startup] Memory statistics:
+02:10:33:715 (00011124) > [Startup]   Total RAM = 29.9 GB (30570 MB)
+02:10:33:715 (00011124) > [Startup]   Avail RAM = 23.9 GB (24482 MB)
+02:10:33:716 (00011124) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+02:10:33:716 (00011124) > [Startup]   Avail virtual memory = 131066.7 GB (134212325 MB)
+02:10:33:716 (00011124) > [Startup]   Total page file = 31.7 GB (32490 MB)
+02:10:33:716 (00011124) > [Startup]   Avail page file = 24.6 GB (25203 MB)
+02:10:33:716 (00011124) > [Startup] 
+02:10:33:716 (00011124) > [Steam] Initializing.
+02:10:33:722 (00011124) > [Steam] Successfully initialized.
+02:10:33:722 (00011124) > [Steam] Currently connected to 0 remote sessions
+02:10:33:722 (00011124) > [NxSteam] End previously existing file batch, did the game quit abnormally while saving?
+02:10:33:938 (00011124) > [NxApp] PreInit
+02:10:33:938 (00011124) > [SwapChain] Initializing...
+02:10:33:938 (00011124) > [DXGI] Initializing...
+02:10:34:576 (00011124) > [NxApp] Streamline was successfully initialized.
+02:10:34:576 (00011124) > [DXGI] Successfully initialized.
+02:10:34:576 (00011124) > [Render] Enumerating adapters:
+02:10:34:576 (00011124) > [Render] 	Adapter 0:
+02:10:34:576 (00011124) > [Monitor] 		Description             : NVIDIA GeForce RTX 4080
+02:10:34:576 (00011124) > [Monitor] 		Vendor                  : nVidia (10de)
+02:10:34:576 (00011124) > [Monitor] 		Device                  : 2704
+02:10:34:576 (00011124) > [Monitor] 		Sub system              : 40c51458
+02:10:34:576 (00011124) > [Monitor] 		Revision                : 161
+02:10:34:576 (00011124) > [Monitor] 		Dedicated Video Memory  : 16050 MB
+02:10:34:576 (00011124) > [Monitor] 		Dedicated System Memory : 0000 MB
+02:10:34:576 (00011124) > [Monitor] 		Shared System Memory    : 15285 MB
+02:10:34:576 (00011124) > [Monitor] 
+02:10:34:576 (00011124) > [Render] Loading NVAPI...
+02:10:34:576 (00011124) > [Render] Done loading NVAPI
+02:10:34:576 (00011124) > [Render] 	Adapter 1:
+02:10:34:576 (00011124) > [Monitor] 		Description             : Microsoft Basic Render Driver
+02:10:34:576 (00011124) > [Monitor] 		Vendor                  : Unknown (1414)
+02:10:34:576 (00011124) > [Monitor] 		Device                  : 8c
+02:10:34:576 (00011124) > [Monitor] 		Sub system              : 0
+02:10:34:576 (00011124) > [Monitor] 		Revision                : 0
+02:10:34:576 (00011124) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+02:10:34:576 (00011124) > [Monitor] 		Dedicated System Memory : 0000 MB
+02:10:34:576 (00011124) > [Monitor] 		Shared System Memory    : 15285 MB
+02:10:34:576 (00011124) > [Monitor] 
+02:10:34:576 (00011124) > [Render] Enumerating monitors:
+02:10:34:576 (00011124) > [Render] 	Monitor 0: handle = 0000000000010003, aspect = 1.83, rounded aspect = 1.83
+02:10:34:576 (00011124) > [Render] 	Monitor 1: handle = 0000000000010001, aspect = 1.78, rounded aspect = 1.78
+02:10:34:576 (00011124) > [Render] 
+02:10:34:577 (00011124) > [Render] 	Monitor handle = 0000000000010001, pixel aspect ratio = 1.00
+02:10:34:578 (00011124) > [Render] 	Monitor handle = 0000000000010003, pixel aspect ratio = 0.97
+02:10:34:578 (00011124) > [SwapChain] Successfully initialized.
+02:10:34:578 (00011124) > [Render] Enumerating Display Modes:
+02:10:34:579 (00011124) > [Render] Querying NVAPI for Surround modes
+02:10:34:643 (00011124) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() - no surround modes detected
+02:10:34:645 (00011124) > [Render] Querying NVAPI for Surround modes
+02:10:34:664 (00011124) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() - no surround modes detected
+02:10:34:664 (00011124) > [Render] 	Monitor '1 (NVIDIA GeForce RTX 4080(1))' (0000000000010001): rect(0 2560 0 1440)
+02:10:34:664 (00011124) > [Render] 		- Mode  0 :  800 x  600 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:664 (00011124) > [Render] 		- Mode  1 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:664 (00011124) > [Render] 		- Mode  2 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:664 (00011124) > [Render] 		- Mode  3 :  800 x  600 @  56 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:664 (00011124) > [Render] 		- Mode  4 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:664 (00011124) > [Render] 		- Mode  5 :  800 x  600 @  72 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:664 (00011124) > [Render] 		- Mode  6 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:664 (00011124) > [Render] 		- Mode  7 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:664 (00011124) > [Render] 		- Mode  8 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:664 (00011124) > [Render] 		- Mode  9 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:664 (00011124) > [Render] 		- Mode 10 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:664 (00011124) > [Render] 		- Mode 11 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:664 (00011124) > [Render] 		- Mode 12 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:664 (00011124) > [Render] 		- Mode 13 : 1024 x  768 @  70 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:664 (00011124) > [Render] 		- Mode 14 : 1024 x  768 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:664 (00011124) > [Render] 		- Mode 15 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:664 (00011124) > [Render] 		- Mode 16 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:664 (00011124) > [Render] 		- Mode 17 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:664 (00011124) > [Render] 		- Mode 18 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 19 : 1152 x  864 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 20 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 21 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 22 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 23 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 24 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 25 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 26 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 27 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 28 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 29 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 30 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 31 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 32 : 1280 x  720 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 33 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 34 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 35 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 36 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 37 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 38 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 39 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 40 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 41 : 1280 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 42 : 1280 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 43 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 44 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 45 : 1280 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 46 : 1280 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 47 : 1280 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 48 : 1280 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 49 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 50 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 51 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 52 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 53 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 54 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 55 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 56 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 57 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 58 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 59 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 60 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 61 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 62 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 63 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 64 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 65 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 66 : 1280 x 1024 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 67 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 68 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 69 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 70 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 71 : 1360 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 72 : 1360 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 73 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 74 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 75 : 1360 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 76 : 1360 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 77 : 1360 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 78 : 1360 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 79 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 80 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 81 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 82 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 83 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 84 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 85 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 86 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 87 : 1440 x  900 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 88 : 1440 x  900 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 89 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 90 : 1440 x  900 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 91 : 1440 x  900 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 92 : 1440 x  900 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 93 : 1440 x  900 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 94 : 1440 x 1080 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 95 : 1440 x 1080 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 96 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 97 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 98 : 1440 x 1080 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 99 : 1440 x 1080 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 100 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 101 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 102 : 1440 x 1080 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 103 : 1440 x 1080 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 104 : 1440 x 1080 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 105 : 1440 x 1080 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 106 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 107 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 108 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 109 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 110 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 111 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 112 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 113 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 114 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 115 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 116 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 117 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 118 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 119 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 120 : 1600 x 1024 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 121 : 1600 x 1024 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 122 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 123 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 124 : 1600 x 1200 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 125 : 1600 x 1200 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 126 : 1600 x 1200 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 127 : 1600 x 1200 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 128 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 129 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 130 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 131 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 132 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 133 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 134 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 135 : 1920 x 1080 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 136 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 137 : 1920 x 1080 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 138 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 139 : 1920 x 1080 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 140 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 141 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 142 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 143 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 144 : 1920 x 1200 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 145 : 1920 x 1200 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 146 : 1920 x 1200 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 147 : 1920 x 1200 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 148 : 1920 x 1440 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 149 : 1920 x 1440 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 150 : 1920 x 1440 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 151 : 1920 x 1440 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 152 : 1920 x 1440 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 153 : 1920 x 1440 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 154 : 2560 x 1440 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 155 : 2560 x 1440 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 156 : 2560 x 1440 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] ***** Additional Monitor Output Info *****
+02:10:34:665 (00011124) > [Render] 		BitsPerColor: 8
+02:10:34:665 (00011124) > [Render] 		Primaries: R=0.6777;0.3096  G=0.2656;0.6631  B=0.1484;0.0527  White-Point=0.3135;0.3291
+02:10:34:665 (00011124) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+02:10:34:665 (00011124) > [Render] 		Luminance: Min=0.2928 Max=400.0000 MaxFullFrame=400.0000
+02:10:34:665 (00011124) > [Render] ******************************************
+02:10:34:665 (00011124) > [Render] 	Monitor '2 (NVIDIA GeForce RTX 4080(1))' (0000000000010003): rect(2560 4480 191 1271)
+02:10:34:665 (00011124) > [Render] 		- Mode  0 :  800 x  600 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode  1 :  800 x  600 @  56 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode  2 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode  3 :  800 x  600 @  72 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode  4 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode  5 : 1024 x  768 @  70 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode  6 : 1024 x  768 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode  7 : 1152 x  864 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode  8 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode  9 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 10 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 11 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 12 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 13 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 14 : 1280 x  720 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 15 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 16 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 17 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 18 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 19 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 20 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 21 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 22 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 23 : 1280 x 1024 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 24 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 25 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 26 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 27 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 28 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 29 : 1440 x 1080 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 30 : 1440 x 1080 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 31 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 32 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 33 : 1440 x 1080 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 34 : 1440 x 1080 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 35 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 36 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 37 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 38 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 39 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 40 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 41 : 1920 x 1080 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 42 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 43 : 1920 x 1080 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] 		- Mode 44 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+02:10:34:665 (00011124) > [Render] ***** Additional Monitor Output Info *****
+02:10:34:665 (00011124) > [Render] 		BitsPerColor: 8
+02:10:34:665 (00011124) > [Render] 		Primaries: R=0.6738;0.3125  G=0.2812;0.6582  B=0.1455;0.0723  White-Point=0.3135;0.3291
+02:10:34:665 (00011124) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+02:10:34:665 (00011124) > [Render] 		Luminance: Min=0.5000 Max=270.0000 MaxFullFrame=270.0000
+02:10:34:665 (00011124) > [Render] ******************************************
+02:10:34:665 (00011124) > [Render] 
+02:10:34:735 (00011124) > [NxReflex] Reflex support result:Result::eOk
+02:10:34:735 (00011124) > [NxReflex] Reflex GetState result:Result::eErrorNotInitialized
+02:10:34:735 (00011124) > [NxReflex] DLSSG support result:Result::eOk
+02:10:34:735 (00011124) > [NxApp] Querying GPU Driver Info...
+02:10:34:735 (00011124) > [NxApp] Enumerating available display adapters:
+02:10:34:739 (00011124) > [NxApp] 		NVIDIA GeForce RTX 4080 (active)
+02:10:34:739 (00011124) > [NxApp] Successfully found GPU Driver Info
+02:10:34:739 (00011124) > [D3D] Max supported feature level: 11.0
+02:10:34:739 (00011124) > [Render] Disabled D3D12 experimentals
+02:10:34:815 (00011124) > [Render] VMEM Budget: 15282 MB
+02:10:34:815 (00011124) > [Render] VMEM Available: 15275 MB
+02:10:35:450 (00011124) > [Render] GPU node count: 1
+02:10:35:467 (00011124) > [NxApp] PreInit successful.
+02:10:35:472 (00011124) > [NxUpscaler] SL DLSS support: Result::eOk
+02:10:35:508 (00011124) > [NxUpscaler] XeSS init, code = 0
+02:10:35:509 (00011124) > [NxReflex] Reflex support result:Result::eOk
+02:10:35:509 (00011124) > [NxReflex] Reflex GetState result:Result::eOk
+02:10:35:509 (00011124) > [NxReflex] DLSSG support result:Result::eOk
+02:10:35:509 (00011124) > [NxApp] Driver Desc: NVIDIA GeForce RTX 4080
+02:10:35:509 (00011124) > [NxApp] Driver Version: 555.99
+02:10:35:509 (00011124) > [**************************************************Display + Graphics Settings**************************************************] 
+02:10:35:509 (00011124) > [Settings] DirectX Version: 12
+02:10:35:509 (00011124) > [Settings] Window mode: Fullscreen
+02:10:35:509 (00011124) > [Settings] Fullscreen display mode:
+02:10:35:509 (00011124) > [Settings] 	Displaying on monitor: 0
+02:10:35:509 (00011124) > [Settings] 	Resolution: 2560x1440
+02:10:35:509 (00011124) > [Settings] 	HDR: Off
+02:10:35:509 (00011124) > [Settings] 	OS reported Refresh rate: 144
+02:10:35:509 (00011124) > [Settings] 	VSync: On
+02:10:35:509 (00011124) > [Settings] 	Reflex: Off
+02:10:35:509 (00011124) > [Settings] 	Frame generation: None
+02:10:35:509 (00011124) > [Settings] 	Resolution modifier 1.000000
+02:10:35:509 (00011124) > [Settings] 	Dynamic resolution FPS target: 0
+02:10:35:509 (00011124) > [Settings] Anti aliasing: DLAA
+
+02:10:35:509 (00011124) > [Settings] Upscale method: None
+
+02:10:35:509 (00011124) > [Settings] Upscale quality: Quality
+
+02:10:35:509 (00011124) > [Settings] Upscale sharpen value: 0.500000
+
+02:10:35:509 (00011124) > [Settings] Graphics Options:
+02:10:35:509 (00011124) > [Settings] 	Texture Quality: Ultra
+02:10:35:509 (00011124) > [Settings] 	Texture Filtering: Anisotropic16x
+02:10:35:509 (00011124) > [Settings] 	Shadow Quality: Ultra
+02:10:35:509 (00011124) > [Settings] 	Depth of Field: VeryHigh
+02:10:35:509 (00011124) > [Settings] 	Level of Detail: VeryHigh
+02:10:35:509 (00011124) > [Settings] 	Terrain Detail: High
+02:10:35:509 (00011124) > [Settings] 	Hair Quality: 
+02:10:35:509 (00011124) > [Settings] 	Ambient Occlusion: XeGTAO
+02:10:35:509 (00011124) > [Settings] 	Screen Space Reflections: Full Res
+02:10:35:509 (00011124) > [Settings] 	Particle Lighting: Very High
+
+02:10:35:509 (00011124) > [Settings] 	Bloom: On
+02:10:35:509 (00011124) > [Settings] 	Vignette: On
+02:10:35:509 (00011124) > [Settings] 	Caustics: On
+02:10:35:509 (00011124) > [Settings] 	Motion Blur: 1.000000
+02:10:35:509 (00011124) > [Settings] 	FOV Correction: 1.000000
+02:10:35:509 (00011124) > [Settings] 	Film Grain Strength: 1.000000
+02:10:35:509 (00011124) > [Settings] 	Sharpness: 1.000000
+02:10:35:510 (00011124) > [Settings] 	Lens Flares: On
+02:10:35:510 (00011124) > [Settings] 	Screen Effects: On
+02:10:35:510 (00011124) > [**************************************************Display + Graphics Settings**************************************************] 
+02:10:35:529 (00011124) > [NxApp] Creating window...
+02:10:35:530 (00004616) > [GameWindow] UpdateState bVisible true
+02:10:35:541 (00004616) > [Input] Keyboard language: "Русский (Россия)" (id: 1049)
+02:10:35:541 (00004616) > [Input] Keyboard physical layout: "Russian" (id: 00000419)
+02:10:35:541 (00004616) > [Input] Joystick            ""   product 45570 vendor 3504 version 3 usage 1 usagePage 65472 xinput no
+02:10:35:541 (00004616) > [Input] Joystick            ""   product 64123 vendor 9639 version 833 usage 1 usagePage 12 xinput no
+02:10:35:541 (00004616) > [Input] Joystick            ""   product 596 vendor 5215 version 256 usage 1 usagePage 12 xinput no
+02:10:35:541 (00004616) > [Input] Joystick            ""   product 64123 vendor 9639 version 833 usage 0 usagePage 65283 xinput no
+02:10:35:541 (00004616) > [Input] Joystick            ""   product 32050 vendor 5218 version 1 usage 0 usagePage 1 xinput no
+02:10:35:541 (00004616) > [Input] Joystick            ""   product 32774 vendor 3141 version 262 usage 1 usagePage 65535 xinput no
+02:10:35:541 (00004616) > [Input] Joystick            ""   product 64123 vendor 9639 version 833 usage 0 usagePage 65281 xinput no
+02:10:35:541 (00004616) > [Input] Joystick            ""   product 32774 vendor 3141 version 262 usage 1 usagePage 12 xinput no
+02:10:35:542 (00004616) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
+02:10:35:542 (00004616) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
+02:10:35:542 (00004616) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 120
+02:10:35:542 (00004616) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+02:10:35:542 (00004616) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+02:10:35:545 (00004616) > [Input] Using LibScePad
+02:10:35:545 (00004616) > [XInput] Enumerating available xusb hid devices:
+
+02:10:35:548 (00011124) > [NxApp] Window created.
+02:10:35:548 (00011124) > [NxApp] Initializing swapchain...
+02:10:35:548 (00002892) > [SwapChain] Creating...
+02:10:35:548 (00002892) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+02:10:35:548 (00002892) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+02:10:35:552 (00002892) > [DXGI] Created swapchain.
+02:10:35:557 (00002892) > [SwapChain] Gamma correction is enabled.
+02:10:35:557 (00002892) > [SwapChain] Successfully created.
+02:10:35:557 (00002892) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+02:10:35:557 (00002892) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+02:10:35:557 (00011124) > [NxApp] Swapchain initialized
+02:10:35:557 (00011124) > [NxApp] Initializing renderer...
+02:10:35:557 (00011124) > [NxApp] Renderer initialized
+02:10:35:557 (00011124) > [NxStorage] Detected device at 'b:\games\ghost of tsushima directors cut', name 'KINGSTON SKC3000S1024G', SSD: Yes, NVMe: Yes
+02:10:35:652 (00011124) > [NxStorage] DirectStorage initialization succeeded
+02:10:35:652 (00011124) > [CJobManager] Creating  10 worker threads, run on  11 cores
+
+02:10:35:674 (00011124) > [Render] PSO cache file C:\Users\<username>\AppData\Roaming\Sucker Punch Productions\Ghost of Tsushima DIRECTOR'S CUT\\user.pso not found, no pipelines read.
+02:10:35:684 (00011124) > [Render] Pipeline cache default.pso read succesfully, read 16192 pipelines, found 0 duplicates.
+02:10:35:690 (00011124) > [SCE] SDK is not detected
+02:10:36:087 (00011124) > [Steam] Stats received: 1
+02:10:38:399 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:10:40:424 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:10:48:978 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:10:59:468 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:11:01:510 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:11:33:703 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:11:33:703 (00006960) > [Render] Working set: 5810MB Page file: 11856MB Video Budget: 15282MB Video Usage: 5213MB Sys Budget: 14517MB Sys Usage: 340MB Demoted: 0MB fps: 126.650009
+02:12:29:210 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:12:31:243 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:12:33:273 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:12:33:704 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:12:33:704 (00006960) > [Render] Working set: 5858MB Page file: 12120MB Video Budget: 15282MB Video Usage: 5404MB Sys Budget: 14517MB Sys Usage: 280MB Demoted: 0MB fps: 126.650009 Demoted: 0MB fps: 141.466675
+02:12:35:303 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:12:37:328 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:12:39:360 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:12:41:379 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:12:43:405 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:12:45:436 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:12:47:459 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:12:49:470 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:12:51:497 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:12:53:533 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:12:55:553 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:12:57:568 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:12:59:594 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:13:01:621 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:13:03:671 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:13:05:720 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:13:07:746 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:13:09:773 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:13:11:802 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:13:13:834 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:13:15:870 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:13:17:886 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:13:19:915 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:13:21:943 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:13:23:971 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:13:25:992 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:13:28:040 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:13:30:071 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:13:32:083 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:13:33:706 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:13:33:706 (00006960) > [Render] Working set: 5785MB Page file: 12752MB Video Budget: 15282MB Video Usage: 5917MB Sys Budget: 14517MB Sys Usage: 285MB Demoted: 0MB fps: 141.466675 Demoted: 0MB fps: 108.333336
+02:13:34:108 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:13:42:846 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:13:44:874 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:13:50:693 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:13:52:729 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:13:54:747 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:13:56:776 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:13:58:805 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:00:835 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:02:857 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:04:893 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:06:936 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:08:963 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:10:994 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:13:021 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:15:053 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:17:087 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:19:098 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:21:112 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:23:138 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:25:169 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:27:184 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:29:242 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:31:264 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:33:280 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:33:700 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:14:33:700 (00006960) > [Render] Working set: 5819MB Page file: 12898MB Video Budget: 15282MB Video Usage: 6008MB Sys Budget: 14517MB Sys Usage: 290MB Demoted: 0MB fps: 108.333336 Demoted: 0MB fps: 97.066673
+02:14:35:291 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:37:322 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:39:350 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:41:380 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:43:407 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:45:436 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:47:468 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:49:493 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:51:518 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:53:535 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:55:564 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:57:585 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:14:59:597 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:15:01:629 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:15:03:654 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:15:05:675 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:15:07:716 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:15:11:616 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:15:13:660 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:15:16:546 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:15:18:574 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:15:20:585 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:15:22:612 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:15:24:644 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:15:26:669 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:15:28:696 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:15:30:709 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:15:32:723 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:15:33:707 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:15:33:707 (00006960) > [Render] Working set: 5924MB Page file: 13663MB Video Budget: 15282MB Video Usage: 6610MB Sys Budget: 14517MB Sys Usage: 292MB Demoted: 0MB fps: 97.066673 Demoted: 0MB fps: 96.566673
+02:15:34:754 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:15:36:783 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:15:38:813 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:15:40:845 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:15:42:871 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:15:44:888 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:15:46:908 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:15:48:941 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:15:50:952 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:15:52:980 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:15:55:012 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:15:57:139 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:15:59:482 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:16:01:620 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:16:03:667 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:16:05:684 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:16:07:745 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:16:09:776 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:16:11:796 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:16:13:824 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:16:15:860 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:16:17:890 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:16:19:903 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:16:22:105 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:16:24:388 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:16:26:717 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:16:28:992 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:16:31:020 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:16:33:401 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:16:33:708 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:16:33:708 (00006960) > [Render] Working set: 6170MB Page file: 15066MB Video Budget: 15282MB Video Usage: 7812MB Sys Budget: 14517MB Sys Usage: 295MB Demoted: 0MB fps: 96.566673 Demoted: 0MB fps: 94.316673
+02:16:35:712 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:16:37:737 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:16:39:769 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:16:42:192 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:16:44:553 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:16:46:892 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:16:48:909 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:16:51:315 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:16:53:549 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:16:55:750 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:16:58:047 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:00:078 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:02:259 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:04:282 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:06:316 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:08:339 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:10:353 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:12:383 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:14:562 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:16:594 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:18:668 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:20:700 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:22:827 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:25:234 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:27:453 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:29:765 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:31:804 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:33:700 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:17:33:700 (00006960) > [Render] Working set: 6468MB Page file: 16680MB Video Budget: 15282MB Video Usage: 9133MB Sys Budget: 14517MB Sys Usage: 297MB Demoted: 0MB fps: 94.316673 Demoted: 0MB fps: 96.216675
+02:17:34:227 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:36:272 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:38:299 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:40:339 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:42:371 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:44:382 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:46:392 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:48:641 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:50:935 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:52:959 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:55:323 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:57:634 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:17:59:671 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:01:703 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:03:742 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:05:759 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:07:814 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:09:836 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:11:844 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:13:880 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:15:907 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:17:975 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:20:009 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:22:042 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:24:073 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:26:107 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:28:133 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:30:161 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:32:212 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:33:709 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:18:33:709 (00006960) > [Render] Working set: 6253MB Page file: 16528MB Video Budget: 15282MB Video Usage: 8972MB Sys Budget: 14517MB Sys Usage: 297MB Demoted: 0MB fps: 96.216675 Demoted: 0MB fps: 90.433334
+02:18:34:253 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:36:290 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:38:327 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:40:369 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:42:378 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:44:403 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:46:452 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:48:476 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:50:502 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:52:531 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:54:556 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:56:574 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:18:58:676 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:19:00:726 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:19:02:763 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:19:04:785 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:19:06:809 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:19:08:840 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:19:10:870 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:19:12:897 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:19:14:924 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:19:16:956 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:19:18:984 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:19:21:015 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:19:23:046 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:19:25:081 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:19:27:107 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:19:29:135 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:19:31:163 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:19:33:178 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:19:33:707 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:19:33:707 (00006960) > [Render] Working set: 6113MB Page file: 16498MB Video Budget: 15282MB Video Usage: 8922MB Sys Budget: 14517MB Sys Usage: 308MB Demoted: 0MB fps: 90.433334 Demoted: 0MB fps: 97.433342
+02:19:35:212 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:19:37:241 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:19:39:258 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:19:41:273 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:19:43:304 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:19:45:338 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:19:47:354 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:19:49:384 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:19:51:398 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:19:53:422 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:20:16:507 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:20:18:538 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:20:21:012 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:20:23:320 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:20:25:622 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:20:27:650 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:20:29:678 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:20:31:894 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:20:33:706 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:20:33:706 (00006960) > [Render] Working set: 6132MB Page file: 16672MB Video Budget: 15282MB Video Usage: 9077MB Sys Budget: 14517MB Sys Usage: 308MB Demoted: 0MB fps: 97.433342 Demoted: 0MB fps: 113.633339
+02:20:34:108 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:20:36:391 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:20:38:422 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:20:40:449 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:20:42:491 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:20:44:881 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:20:46:896 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:20:49:207 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:20:51:237 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:20:53:617 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:20:56:005 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:20:58:414 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:21:00:635 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:21:02:677 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:21:04:760 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:21:06:808 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:21:08:845 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:21:10:873 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:21:12:902 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:21:14:929 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:21:16:943 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:21:19:416 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:21:21:805 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:21:24:023 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:21:26:399 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:21:28:429 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:21:30:821 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:21:33:087 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:21:33:710 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:21:33:710 (00006960) > [Render] Working set: 6150MB Page file: 16597MB Video Budget: 15282MB Video Usage: 8989MB Sys Budget: 14517MB Sys Usage: 309MB Demoted: 0MB fps: 113.633339 Demoted: 0MB fps: 95.550003
+02:21:35:436 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:21:37:841 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:21:40:046 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:21:42:296 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:21:44:416 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:21:46:615 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:21:48:917 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:21:51:300 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:21:53:656 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:21:56:015 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:21:58:055 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:00:413 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:02:690 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:04:711 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:06:748 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:08:767 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:10:797 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:12:925 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:14:952 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:17:325 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:19:829 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:22:062 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:24:332 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:26:361 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:28:628 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:30:657 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:32:684 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:33:700 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:22:33:700 (00006960) > [Render] Working set: 6190MB Page file: 16749MB Video Budget: 15282MB Video Usage: 8905MB Sys Budget: 14517MB Sys Usage: 309MB Demoted: 0MB fps: 95.550003 Demoted: 0MB fps: 84.050003
+02:22:34:709 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:36:738 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:38:750 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:40:777 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:42:813 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:44:841 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:46:860 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:48:877 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:50:909 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:52:938 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:54:951 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:56:983 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:22:59:016 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:01:043 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:03:068 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:05:105 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:07:131 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:09:174 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:11:188 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:13:220 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:15:259 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:17:286 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:19:313 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:21:326 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:23:361 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:25:389 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:27:432 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:29:448 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:31:479 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:33:503 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:33:702 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:23:33:702 (00006960) > [Render] Working set: 6192MB Page file: 16598MB Video Budget: 15282MB Video Usage: 8946MB Sys Budget: 14517MB Sys Usage: 309MB Demoted: 0MB fps: 84.050003 Demoted: 0MB fps: 83.883339
+02:23:35:542 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:37:570 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:39:603 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:41:617 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:43:643 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:45:671 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:46:545 (00011124) > [SCE] SCE sdk is not initialized
+02:23:47:708 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:49:737 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:51:766 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:53:799 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:54:800 (00011124) > [SCE] SCE sdk is not initialized
+02:23:55:832 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:57:860 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:23:57:946 (00011124) > [SCE] SCE sdk is not initialized
+02:23:59:890 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:24:01:920 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:24:03:946 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:24:05:981 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:24:07:992 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:24:08:963 (00011124) > [SCE] SCE sdk is not initialized
+02:24:10:023 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:24:12:054 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:24:14:082 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:24:16:095 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:24:18:124 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:24:20:156 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:24:22:184 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:24:24:211 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:24:26:239 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:24:28:264 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:24:30:298 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:24:32:311 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:24:33:708 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:24:33:708 (00006960) > [Render] Working set: 6139MB Page file: 16574MB Video Budget: 15282MB Video Usage: 8948MB Sys Budget: 14517MB Sys Usage: 309MB Demoted: 0MB fps: 83.883339 Demoted: 0MB fps: 83.216675
+02:24:34:322 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:24:36:349 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:24:38:381 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:24:40:427 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:24:42:630 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:24:44:991 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:24:47:255 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:24:49:732 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:24:51:763 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:24:54:164 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:24:56:527 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:24:58:556 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:25:01:027 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:25:03:625 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:25:05:664 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:25:07:686 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:25:09:727 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:25:11:760 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:25:13:793 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:25:15:824 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:25:17:853 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:25:19:886 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:25:22:216 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:25:24:247 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:25:26:272 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:25:28:517 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:25:30:756 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:25:32:770 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:25:33:707 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:25:33:707 (00006960) > [Render] Working set: 6149MB Page file: 16566MB Video Budget: 15282MB Video Usage: 8935MB Sys Budget: 14517MB Sys Usage: 309MB Demoted: 0MB fps: 83.216675 Demoted: 0MB fps: 92.833336
+02:25:35:257 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:25:37:507 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:25:39:778 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:25:42:062 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:25:44:090 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:25:46:100 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:25:48:316 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:25:50:346 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:25:52:376 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:25:54:688 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:26:02:759 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:26:04:775 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:26:06:796 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:26:08:822 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:26:10:838 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:26:12:870 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:26:16:247 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:26:18:486 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:26:20:783 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:26:22:985 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:26:25:489 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:26:27:986 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:26:30:013 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:26:32:041 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:26:33:702 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:26:33:702 (00006960) > [Render] Working set: 6152MB Page file: 16637MB Video Budget: 15282MB Video Usage: 8999MB Sys Budget: 14517MB Sys Usage: 309MB Demoted: 0MB fps: 92.833336 Demoted: 0MB fps: 95.716675
+02:26:34:286 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:26:36:581 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:26:38:992 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:26:41:228 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:26:43:588 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:26:45:805 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:26:48:024 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:26:50:420 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:26:52:732 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:26:54:979 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:26:57:309 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:26:59:588 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:01:603 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:03:642 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:05:673 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:07:715 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:09:730 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:11:762 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:13:777 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:15:807 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:17:823 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:19:837 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:21:867 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:23:897 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:25:927 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:27:936 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:29:949 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:31:982 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:33:707 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:27:33:707 (00006960) > [Render] Working set: 6188MB Page file: 16668MB Video Budget: 15282MB Video Usage: 8960MB Sys Budget: 14517MB Sys Usage: 310MB Demoted: 0MB fps: 95.716675 Demoted: 0MB fps: 90.500008
+02:27:34:006 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:36:034 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:38:063 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:40:088 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:42:119 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:44:149 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:46:175 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:48:190 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:50:219 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:52:252 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:54:288 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:56:320 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:27:58:348 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:28:00:380 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:28:02:409 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:28:04:461 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:28:06:497 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:28:08:523 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:28:10:552 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:28:12:565 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:28:14:600 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:28:16:635 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:28:18:663 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:28:20:785 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:28:22:814 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:28:25:195 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:28:27:224 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:28:29:473 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:28:31:488 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:28:33:708 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:28:33:708 (00006960) > [Render] Working set: 6186MB Page file: 16664MB Video Budget: 15282MB Video Usage: 8976MB Sys Budget: 14517MB Sys Usage: 310MB Demoted: 0MB fps: 90.500008 Demoted: 0MB fps: 104.033340
+02:28:33:930 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:28:35:959 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:28:37:985 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:28:40:473 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:28:42:854 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:28:44:884 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:28:46:915 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:28:48:941 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:28:50:960 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:28:53:325 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:28:55:746 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:28:58:154 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:00:185 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:02:429 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:04:532 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:06:559 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:08:601 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:10:638 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:12:676 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:14:701 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:16:730 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:18:779 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:20:799 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:22:827 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:24:844 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:26:885 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:28:897 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:30:932 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:32:975 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:33:706 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:29:33:706 (00006960) > [Render] Working set: 6211MB Page file: 16612MB Video Budget: 15282MB Video Usage: 8972MB Sys Budget: 14517MB Sys Usage: 310MB Demoted: 0MB fps: 104.033340 Demoted: 0MB fps: 103.850006
+02:29:35:004 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:37:033 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:39:063 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:41:076 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:43:111 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:45:132 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:47:163 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:49:199 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:51:229 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:53:276 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:55:310 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:57:337 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:29:59:363 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:01:391 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:03:417 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:05:433 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:07:467 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:09:498 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:11:516 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:13:542 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:15:575 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:17:607 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:19:626 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:21:637 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:23:666 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:25:689 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:27:720 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:29:747 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:31:776 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:33:703 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:30:33:703 (00006960) > [Render] Working set: 6146MB Page file: 16575MB Video Budget: 15282MB Video Usage: 8949MB Sys Budget: 14517MB Sys Usage: 310MB Demoted: 0MB fps: 103.850006 Demoted: 0MB fps: 101.233337
+02:30:33:792 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:35:820 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:37:848 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:39:886 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:41:899 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:43:910 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:45:940 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:47:966 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:49:996 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:52:024 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:54:053 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:56:083 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:30:58:114 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:31:00:144 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:31:02:174 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:31:04:213 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:31:06:222 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:31:08:246 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:31:10:278 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:31:12:309 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:31:14:354 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:31:16:383 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:31:18:400 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:31:20:432 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:31:22:464 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:31:24:493 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:31:26:708 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:31:28:927 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:31:31:227 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:31:33:556 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:31:33:704 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:31:33:704 (00006960) > [Render] Working set: 6145MB Page file: 16586MB Video Budget: 15282MB Video Usage: 8959MB Sys Budget: 14517MB Sys Usage: 310MB Demoted: 0MB fps: 101.233337 Demoted: 0MB fps: 100.883339
+02:31:35:758 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:31:38:230 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:31:40:529 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:31:42:921 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:31:44:949 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:31:47:115 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:31:49:429 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:31:51:464 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:31:53:919 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:31:56:224 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:31:58:562 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:32:01:063 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:32:03:355 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:32:05:385 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:32:07:403 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:32:09:418 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:32:11:449 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:32:13:482 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:32:15:512 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:32:17:526 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:32:19:536 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:32:21:552 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:32:23:943 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:32:26:113 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:32:28:499 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:32:30:991 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:32:33:300 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:32:33:700 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:32:33:700 (00006960) > [Render] Working set: 6144MB Page file: 16580MB Video Budget: 15282MB Video Usage: 8954MB Sys Budget: 14517MB Sys Usage: 310MB Demoted: 0MB fps: 100.883339 Demoted: 0MB fps: 112.016670
+02:32:35:324 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:32:37:652 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:32:39:982 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:32:42:027 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:32:44:063 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:32:46:087 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:32:48:475 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:32:50:978 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:32:53:264 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:32:55:293 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:32:57:763 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:33:22:284 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:33:24:642 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:33:26:954 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:33:28:968 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:33:31:302 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:33:33:344 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:33:33:707 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:33:33:707 (00006960) > [Render] Working set: 6145MB Page file: 16581MB Video Budget: 15282MB Video Usage: 8957MB Sys Budget: 14517MB Sys Usage: 309MB Demoted: 0MB fps: 112.016670 Demoted: 0MB fps: 121.600006
+02:33:35:370 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:33:37:400 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:33:39:792 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:33:42:250 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:33:44:454 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:33:46:605 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:33:48:952 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:33:50:992 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:33:53:018 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:33:55:042 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:33:57:066 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:33:59:082 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:34:01:113 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:34:03:139 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:34:05:159 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:34:07:194 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:34:09:237 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:34:11:270 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:34:13:300 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:34:15:327 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:34:17:340 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:34:19:369 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:34:21:384 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:34:23:413 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:34:25:429 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:34:27:459 (00006460) > [PSNLNK] ERROR reqk 1001 -1
+02:34:33:701 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:34:33:701 (00006960) > [Render] Working set: 6197MB Page file: 16809MB Video Budget: 15282MB Video Usage: 9140MB Sys Budget: 14517MB Sys Usage: 309MB Demoted: 0MB fps: 121.600006 Demoted: 0MB fps: 104.083336
+02:35:33:708 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:35:33:708 (00006960) > [Render] Working set: 6147MB Page file: 16616MB Video Budget: 15282MB Video Usage: 8982MB Sys Budget: 14517MB Sys Usage: 309MB Demoted: 0MB fps: 104.083336 Demoted: 0MB fps: 103.366669
+02:36:33:710 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:36:33:710 (00006960) > [Render] Working set: 6162MB Page file: 16601MB Video Budget: 15282MB Video Usage: 8962MB Sys Budget: 14517MB Sys Usage: 310MB Demoted: 0MB fps: 103.366669 Demoted: 0MB fps: 113.550003
+02:37:33:701 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:37:33:701 (00006960) > [Render] Working set: 6165MB Page file: 16623MB Video Budget: 15282MB Video Usage: 8981MB Sys Budget: 14517MB Sys Usage: 310MB Demoted: 0MB fps: 113.550003 Demoted: 0MB fps: 109.000008
+02:38:33:708 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:38:33:708 (00006960) > [Render] Working set: 6166MB Page file: 16627MB Video Budget: 15282MB Video Usage: 8991MB Sys Budget: 14517MB Sys Usage: 310MB Demoted: 0MB fps: 109.000008 Demoted: 0MB fps: 106.716675
+02:39:33:702 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:39:33:702 (00006960) > [Render] Working set: 6163MB Page file: 16744MB Video Budget: 15282MB Video Usage: 9098MB Sys Budget: 14517MB Sys Usage: 311MB Demoted: 0MB fps: 106.716675 Demoted: 0MB fps: 104.450005
+02:40:33:709 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:40:33:709 (00006960) > [Render] Working set: 6169MB Page file: 16616MB Video Budget: 15282MB Video Usage: 8991MB Sys Budget: 14517MB Sys Usage: 311MB Demoted: 0MB fps: 104.450005 Demoted: 0MB fps: 104.600006
+02:41:33:702 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:41:33:702 (00006960) > [Render] Working set: 6164MB Page file: 16641MB Video Budget: 15282MB Video Usage: 9003MB Sys Budget: 14517MB Sys Usage: 311MB Demoted: 0MB fps: 104.600006 Demoted: 0MB fps: 97.133339
+02:42:33:704 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:42:33:704 (00006960) > [Render] Working set: 6349MB Page file: 16742MB Video Budget: 15282MB Video Usage: 9031MB Sys Budget: 14517MB Sys Usage: 312MB Demoted: 0MB fps: 97.133339 Demoted: 0MB fps: 98.550003
+02:43:33:702 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:43:33:702 (00006960) > [Render] Working set: 6452MB Page file: 16983MB Video Budget: 15282MB Video Usage: 9135MB Sys Budget: 14517MB Sys Usage: 312MB Demoted: 0MB fps: 98.550003 Demoted: 0MB fps: 98.833336
+02:44:33:700 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:44:33:700 (00006960) > [Render] Working set: 6399MB Page file: 16870MB Video Budget: 15282MB Video Usage: 9088MB Sys Budget: 14517MB Sys Usage: 312MB Demoted: 0MB fps: 98.833336 Demoted: 0MB fps: 104.200005
+02:45:33:709 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:45:33:709 (00006960) > [Render] Working set: 6396MB Page file: 16927MB Video Budget: 15282MB Video Usage: 9026MB Sys Budget: 14517MB Sys Usage: 312MB Demoted: 0MB fps: 104.200005 Demoted: 0MB fps: 99.016670
+02:46:33:704 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:46:33:704 (00006960) > [Render] Working set: 6335MB Page file: 16821MB Video Budget: 15282MB Video Usage: 9039MB Sys Budget: 14517MB Sys Usage: 312MB Demoted: 0MB fps: 99.016670 Demoted: 0MB fps: 103.083336
+02:47:33:704 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:47:33:705 (00006960) > [Render] Working set: 6236MB Page file: 16928MB Video Budget: 15282MB Video Usage: 9127MB Sys Budget: 14517MB Sys Usage: 311MB Demoted: 0MB fps: 103.083336 Demoted: 0MB fps: 122.633339
+02:48:33:709 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:48:33:709 (00006960) > [Render] Working set: 6255MB Page file: 16849MB Video Budget: 15282MB Video Usage: 9046MB Sys Budget: 14517MB Sys Usage: 311MB Demoted: 0MB fps: 122.633339 Demoted: 0MB fps: 116.616676
+02:49:33:702 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:49:33:702 (00006960) > [Render] Working set: 6232MB Page file: 16820MB Video Budget: 15282MB Video Usage: 9037MB Sys Budget: 14517MB Sys Usage: 311MB Demoted: 0MB fps: 116.616676 Demoted: 0MB fps: 109.833336
+02:50:33:703 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:50:33:703 (00006960) > [Render] Working set: 6237MB Page file: 16838MB Video Budget: 15282MB Video Usage: 9048MB Sys Budget: 14517MB Sys Usage: 312MB Demoted: 0MB fps: 109.833336 Demoted: 0MB fps: 110.266670
+02:51:33:700 (00006960) > [Render] Quering NVAPI for GPU temperature
+02:51:33:702 (00006960) > [Render] Working set: 6240MB Page file: 16845MB Video Budget: 15282MB Video Usage: 9055MB Sys Budget: 14517MB Sys Usage: 311MB Demoted: 0MB fps: 110.266670 Demoted: 0MB fps: 107.283340
+02:51:34:439 (00011124) > [NxApp] Destroying
+02:51:34:452 (00011124) > [DXGI] Destroyed swapchain.
+02:51:34:452 (00011124) > [SwapChain] Destroyed.
+02:51:34:452 (00011124) > [SwapChain] Released.
+02:51:34:455 (00011124) > [Render] Unloading NVAPI
+02:51:34:456 (00011124) > [Render] Done unloading NVAPI
+02:51:34:456 (00011124) > [DXGI] Destroyed swapchain.
+02:51:34:456 (00011124) > [DXGI] Released.
+--- NIXXES log closed ---
